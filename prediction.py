@@ -1,4 +1,3 @@
- 
 import joblib
 import numpy
 def predict(input):
@@ -9,4 +8,3 @@ def predict(input):
         return "Spam"
      else:
        return "Not Spam"
-    
